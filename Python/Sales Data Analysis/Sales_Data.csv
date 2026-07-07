@@ -1,0 +1,301 @@
+﻿Order ID,Order Date,Region,State,Category,Sub-Category,Product,Customer,Sales,Quantity,Profit
+1001,08-03-2025,West,Gujarat,Furniture,Chairs,Office Chair,Ravi,61965.46,3,7491.87
+1002,29-09-2025,South,Karnataka,Furniture,Bookcases,Wooden Bookcase,Asha,14001.18,5,2776.4
+1003,29-05-2025,East,Assam,Technology,Accessories,Wireless Mouse,Pooja,38131.68,1,2897
+1004,01-05-2025,East,West Bengal,Office Supplies,Paper,A4 Paper,Sneha,54639.25,6,5140.82
+1005,14-04-2025,West,Goa,Technology,Phones,Samsung Phone,Vijay,18535.77,10,2552.01
+1006,27-02-2025,West,Maharashtra,Furniture,Tables,Study Table,Anil,60072.62,3,12259.19
+1007,24-10-2025,South,Tamil Nadu,Technology,Phones,Samsung Phone,Kiran,22684.54,1,6307.9
+1008,20-01-2025,East,Assam,Office Supplies,Storage,Storage Box,Priya,69231.92,1,3492.01
+1009,21-06-2025,South,Andhra Pradesh,Technology,Laptops,Dell Laptop,Vijay,7326.37,2,1432.22
+1010,27-12-2025,North,Delhi,Furniture,Tables,Study Table,Kiran,8238.4,7,2257.32
+1011,01-11-2025,North,Uttar Pradesh,Office Supplies,Paper,A4 Paper,Rahul,21751.79,9,3109.22
+1012,05-04-2025,East,Bihar,Furniture,Bookcases,Wooden Bookcase,Pooja,27184.69,4,3003.26
+1013,10-12-2025,East,Assam,Office Supplies,Binders,Ring Binder,Anil,33063.53,8,7723.81
+1014,18-07-2025,North,Haryana,Office Supplies,Paper,A4 Paper,Vijay,37631.73,9,3998.75
+1015,04-07-2025,East,Assam,Office Supplies,Storage,Storage Box,Ravi,12183.96,9,1132.61
+1016,04-07-2025,North,Uttar Pradesh,Technology,Phones,Samsung Phone,Vijay,55765.99,3,16279.48
+1017,15-05-2025,North,Haryana,Technology,Laptops,Dell Laptop,Asha,31276.82,2,7732.22
+1018,22-09-2025,East,Assam,Furniture,Tables,Study Table,Kiran,79501.69,8,9325.46
+1019,07-02-2025,North,Haryana,Furniture,Chairs,Office Chair,Neha,43423.54,5,12957.81
+1020,18-08-2025,East,Bihar,Office Supplies,Paper,A4 Paper,Rahul,23127.45,6,1548.73
+1021,06-06-2025,North,Haryana,Office Supplies,Binders,Ring Binder,Anil,79754.5,5,15069.48
+1022,11-08-2025,East,Bihar,Technology,Accessories,Wireless Mouse,Priya,65832.21,3,7699.6
+1023,06-04-2025,South,Tamil Nadu,Technology,Phones,Samsung Phone,Kiran,46259.15,1,5222.78
+1024,25-10-2025,West,Gujarat,Furniture,Bookcases,Wooden Bookcase,Vijay,4323.76,7,1226.4
+1025,03-08-2025,South,Karnataka,Office Supplies,Storage,Storage Box,Neha,47951.97,10,8015.34
+1026,09-10-2025,North,Delhi,Furniture,Chairs,Office Chair,Sneha,31562.87,6,5017.17
+1027,01-08-2025,North,Punjab,Furniture,Bookcases,Wooden Bookcase,Priya,10855.54,9,2735.24
+1028,30-07-2025,North,Punjab,Office Supplies,Binders,Ring Binder,Priya,45168.33,1,2764.78
+1029,12-04-2025,South,Karnataka,Furniture,Tables,Study Table,Pooja,76750.68,4,15934.54
+1030,10-03-2025,North,Haryana,Technology,Accessories,Wireless Mouse,Kiran,65072.87,9,6413.54
+1031,27-12-2025,West,Gujarat,Technology,Phones,Samsung Phone,Kiran,73228.64,10,15183.16
+1032,17-03-2025,West,Gujarat,Technology,Accessories,Wireless Mouse,Priya,10511.28,2,1347.96
+1033,06-02-2025,North,Haryana,Furniture,Chairs,Office Chair,Neha,63722.22,3,12661.36
+1034,17-06-2025,West,Rajasthan,Technology,Phones,Samsung Phone,Asha,47759.69,8,6564.16
+1035,01-09-2025,South,Telangana,Technology,Phones,Samsung Phone,Neha,43556.51,9,9470
+1036,19-11-2025,East,Bihar,Technology,Laptops,Dell Laptop,Kiran,69034.43,9,10588.96
+1037,16-10-2025,North,Delhi,Technology,Phones,Samsung Phone,Vijay,18305.94,3,4245.65
+1038,09-05-2025,East,Assam,Furniture,Chairs,Office Chair,Asha,8020.73,1,2221.31
+1039,08-06-2025,East,Bihar,Furniture,Tables,Study Table,Sneha,42100,6,3596.6
+1040,18-01-2025,South,Karnataka,Technology,Accessories,Wireless Mouse,Vijay,18720.33,5,2402.15
+1041,13-10-2025,East,Assam,Furniture,Chairs,Office Chair,Rahul,13333.63,5,1187.18
+1042,12-09-2025,West,Gujarat,Office Supplies,Storage,Storage Box,Vijay,21523.74,2,4226.93
+1043,22-02-2025,East,West Bengal,Office Supplies,Binders,Ring Binder,Vijay,64116.09,3,4107.9
+1044,02-03-2025,East,Assam,Office Supplies,Storage,Storage Box,Asha,7752.37,2,2033.15
+1045,29-05-2025,North,Uttar Pradesh,Furniture,Bookcases,Wooden Bookcase,Priya,37647.3,9,8090.76
+1046,15-11-2025,East,Odisha,Technology,Accessories,Wireless Mouse,Pooja,70156.05,10,14800.24
+1047,16-12-2025,North,Uttar Pradesh,Technology,Phones,Samsung Phone,Pooja,49522.63,10,7238.2
+1048,31-01-2025,South,Karnataka,Furniture,Bookcases,Wooden Bookcase,Kiran,49629.97,8,9064.05
+1049,15-12-2025,West,Goa,Technology,Accessories,Wireless Mouse,Sneha,40242.93,7,5067.44
+1050,16-04-2025,East,Assam,Office Supplies,Binders,Ring Binder,Ravi,61598.2,5,13121.07
+1051,23-01-2025,West,Maharashtra,Technology,Phones,Samsung Phone,Asha,62918.76,7,17876.52
+1052,02-06-2025,East,Odisha,Office Supplies,Paper,A4 Paper,Vijay,73941.48,9,10440.42
+1053,18-08-2025,West,Rajasthan,Office Supplies,Paper,A4 Paper,Rahul,52110.77,8,13777.38
+1054,02-07-2025,North,Haryana,Furniture,Bookcases,Wooden Bookcase,Sneha,41230.26,8,5440.96
+1055,25-07-2025,East,Assam,Furniture,Chairs,Office Chair,Vijay,19904.5,1,1140.89
+1056,29-07-2025,South,Karnataka,Office Supplies,Paper,A4 Paper,Pooja,3021.12,4,591.27
+1057,06-10-2025,North,Punjab,Furniture,Bookcases,Wooden Bookcase,Rahul,35644.39,9,7863.52
+1058,03-06-2025,South,Andhra Pradesh,Office Supplies,Binders,Ring Binder,Pooja,3131.51,9,260.81
+1059,10-07-2025,South,Telangana,Office Supplies,Storage,Storage Box,Ravi,10453.22,4,2689.39
+1060,31-12-2025,West,Maharashtra,Office Supplies,Binders,Ring Binder,Neha,20328.65,1,3480.23
+1061,26-05-2025,East,Bihar,Furniture,Bookcases,Wooden Bookcase,Sneha,44790.69,9,10402.59
+1062,13-12-2025,East,Bihar,Technology,Laptops,Dell Laptop,Priya,1064.42,2,202.81
+1063,09-08-2025,East,Assam,Office Supplies,Storage,Storage Box,Kiran,10079.45,7,1254.34
+1064,11-07-2025,South,Tamil Nadu,Office Supplies,Binders,Ring Binder,Priya,13703.79,8,2839.68
+1065,17-08-2025,South,Tamil Nadu,Technology,Accessories,Wireless Mouse,Sneha,29148.85,3,4816.25
+1066,23-10-2025,West,Rajasthan,Technology,Laptops,Dell Laptop,Ravi,39864.56,5,3661.43
+1067,27-02-2025,North,Delhi,Office Supplies,Binders,Ring Binder,Pooja,32099.15,1,6740.78
+1068,17-04-2025,West,Maharashtra,Office Supplies,Binders,Ring Binder,Ravi,54219.43,4,4963.68
+1069,01-04-2025,South,Karnataka,Office Supplies,Binders,Ring Binder,Asha,71615.31,2,5135.78
+1070,06-04-2025,East,Bihar,Technology,Phones,Samsung Phone,Priya,63342.98,1,8030.46
+1071,23-01-2025,West,Goa,Furniture,Bookcases,Wooden Bookcase,Pooja,77127.51,1,12816.4
+1072,03-01-2025,South,Karnataka,Office Supplies,Binders,Ring Binder,Pooja,71155.34,5,15621.08
+1073,20-09-2025,West,Maharashtra,Technology,Accessories,Wireless Mouse,Sneha,12946.82,8,1758.28
+1074,01-11-2025,East,Assam,Furniture,Chairs,Office Chair,Rahul,9499.81,7,2570.03
+1075,09-01-2025,South,Telangana,Furniture,Tables,Study Table,Asha,69717.93,1,15893.87
+1076,24-08-2025,East,Odisha,Furniture,Chairs,Office Chair,Vijay,70298.74,1,7947.95
+1077,06-09-2025,East,Odisha,Furniture,Tables,Study Table,Kiran,70348.14,7,11060.49
+1078,20-05-2025,East,West Bengal,Technology,Phones,Samsung Phone,Priya,3620.95,9,478.99
+1079,06-07-2025,West,Rajasthan,Furniture,Tables,Study Table,Neha,14681.77,1,3744.89
+1080,10-11-2025,East,Bihar,Office Supplies,Binders,Ring Binder,Neha,21201.6,8,1994.69
+1081,25-05-2025,East,Assam,Furniture,Chairs,Office Chair,Pooja,11624.88,3,591.87
+1082,06-05-2025,West,Maharashtra,Office Supplies,Storage,Storage Box,Pooja,22474.81,7,6162.86
+1083,03-05-2025,East,Assam,Technology,Laptops,Dell Laptop,Neha,21321.87,6,5287.43
+1084,11-04-2025,North,Uttar Pradesh,Technology,Phones,Samsung Phone,Rahul,45546.63,3,7601.74
+1085,17-05-2025,North,Punjab,Furniture,Bookcases,Wooden Bookcase,Anil,65012.99,10,11378.59
+1086,07-11-2025,North,Haryana,Technology,Laptops,Dell Laptop,Pooja,38251.5,10,7868.14
+1087,15-10-2025,West,Maharashtra,Office Supplies,Storage,Storage Box,Neha,50759.26,10,11221.46
+1088,07-10-2025,East,Odisha,Technology,Accessories,Wireless Mouse,Pooja,37851.91,10,6238.54
+1089,05-06-2025,South,Karnataka,Furniture,Tables,Study Table,Asha,37649.51,10,4860.35
+1090,29-11-2025,East,West Bengal,Office Supplies,Storage,Storage Box,Priya,34754.35,7,9549.65
+1091,21-08-2025,West,Rajasthan,Office Supplies,Paper,A4 Paper,Kiran,47872.9,6,8210.64
+1092,16-06-2025,North,Delhi,Technology,Accessories,Wireless Mouse,Asha,19039.11,9,1612.35
+1093,22-11-2025,North,Uttar Pradesh,Office Supplies,Binders,Ring Binder,Pooja,5365.17,1,819.25
+1094,02-08-2025,South,Tamil Nadu,Technology,Phones,Samsung Phone,Ravi,34281.39,6,5806.19
+1095,01-05-2025,South,Telangana,Office Supplies,Storage,Storage Box,Kiran,77426.75,5,17948.36
+1096,10-06-2025,East,Bihar,Furniture,Tables,Study Table,Sneha,73864.41,7,10691.64
+1097,23-12-2025,South,Karnataka,Technology,Laptops,Dell Laptop,Asha,5542.01,3,1417.36
+1098,09-10-2025,North,Delhi,Office Supplies,Paper,A4 Paper,Anil,38771.49,8,8530.66
+1099,12-02-2025,East,Odisha,Furniture,Bookcases,Wooden Bookcase,Pooja,61100.92,7,8564.06
+1100,05-05-2025,East,West Bengal,Technology,Laptops,Dell Laptop,Asha,19271.56,5,2468.09
+1101,14-09-2025,West,Gujarat,Technology,Laptops,Dell Laptop,Priya,8164.58,2,1027.86
+1102,16-04-2025,North,Delhi,Office Supplies,Binders,Ring Binder,Kiran,36445.1,8,9675.41
+1103,06-03-2025,North,Haryana,Furniture,Bookcases,Wooden Bookcase,Ravi,70753.74,5,12555.24
+1104,18-02-2025,East,Odisha,Furniture,Bookcases,Wooden Bookcase,Kiran,58352.62,6,12673.32
+1105,10-02-2025,North,Uttar Pradesh,Office Supplies,Binders,Ring Binder,Kiran,21857.61,9,1542.59
+1106,23-10-2025,North,Uttar Pradesh,Furniture,Bookcases,Wooden Bookcase,Rahul,38522.82,9,3576.69
+1107,18-04-2025,North,Delhi,Office Supplies,Storage,Storage Box,Anil,30099.84,8,1557.13
+1108,26-09-2025,East,Odisha,Furniture,Bookcases,Wooden Bookcase,Pooja,24125.52,1,4541.64
+1109,29-05-2025,South,Karnataka,Technology,Laptops,Dell Laptop,Pooja,37897.48,3,8794.05
+1110,28-01-2025,North,Haryana,Technology,Phones,Samsung Phone,Ravi,54073.4,1,5426
+1111,04-11-2025,South,Karnataka,Technology,Accessories,Wireless Mouse,Vijay,54713.34,10,9632.94
+1112,13-01-2025,West,Rajasthan,Technology,Phones,Samsung Phone,Vijay,33450.73,10,1846.16
+1113,12-08-2025,North,Uttar Pradesh,Office Supplies,Paper,A4 Paper,Anil,29246.65,8,7957.2
+1114,20-12-2025,North,Punjab,Furniture,Bookcases,Wooden Bookcase,Anil,24488.34,7,4608.92
+1115,24-12-2025,South,Andhra Pradesh,Technology,Laptops,Dell Laptop,Vijay,56842.06,5,14667.81
+1116,28-01-2025,South,Telangana,Office Supplies,Binders,Ring Binder,Anil,52729.74,5,3458.52
+1117,01-11-2025,East,Assam,Office Supplies,Storage,Storage Box,Kiran,31400.31,3,8690.08
+1118,19-03-2025,North,Uttar Pradesh,Furniture,Bookcases,Wooden Bookcase,Rahul,54252.5,7,14207.41
+1119,04-08-2025,North,Punjab,Technology,Phones,Samsung Phone,Sneha,77233.1,9,20674.4
+1120,09-12-2025,South,Telangana,Office Supplies,Paper,A4 Paper,Anil,68152.81,1,12512.66
+1121,05-09-2025,East,West Bengal,Office Supplies,Paper,A4 Paper,Pooja,59023.98,8,7007.08
+1122,26-12-2025,West,Gujarat,Furniture,Bookcases,Wooden Bookcase,Vijay,11990.04,6,2599.06
+1123,30-10-2025,North,Haryana,Technology,Accessories,Wireless Mouse,Sneha,73947.35,8,13914.93
+1124,22-11-2025,South,Karnataka,Technology,Accessories,Wireless Mouse,Anil,71033.59,10,18540.19
+1125,09-06-2025,North,Uttar Pradesh,Office Supplies,Binders,Ring Binder,Ravi,57256.94,1,11598.09
+1126,12-12-2025,East,Bihar,Office Supplies,Binders,Ring Binder,Pooja,67214.74,6,5126.28
+1127,22-01-2025,South,Tamil Nadu,Technology,Phones,Samsung Phone,Neha,8490.67,4,2411.4
+1128,09-08-2025,East,Odisha,Technology,Accessories,Wireless Mouse,Anil,14101.14,6,4194.42
+1129,17-11-2025,East,Assam,Furniture,Bookcases,Wooden Bookcase,Priya,37765.29,1,6202.03
+1130,05-11-2025,South,Andhra Pradesh,Technology,Phones,Samsung Phone,Priya,63422.29,6,14562.32
+1131,03-03-2025,South,Tamil Nadu,Technology,Accessories,Wireless Mouse,Ravi,79868.57,9,14502.1
+1132,05-10-2025,West,Gujarat,Technology,Phones,Samsung Phone,Pooja,57334.44,3,3955.63
+1133,11-06-2025,North,Delhi,Technology,Laptops,Dell Laptop,Kiran,21068.92,10,4793.53
+1134,19-05-2025,South,Karnataka,Technology,Accessories,Wireless Mouse,Pooja,47472.05,8,5749.34
+1135,28-05-2025,West,Rajasthan,Furniture,Bookcases,Wooden Bookcase,Ravi,17086.67,8,4106.3
+1136,24-08-2025,East,Assam,Office Supplies,Binders,Ring Binder,Priya,67214,9,8602.12
+1137,22-12-2025,South,Tamil Nadu,Office Supplies,Paper,A4 Paper,Pooja,79773.22,2,8215.88
+1138,13-07-2025,West,Maharashtra,Technology,Laptops,Dell Laptop,Neha,49379.23,3,6232.7
+1139,01-03-2025,West,Maharashtra,Technology,Phones,Samsung Phone,Ravi,41866.83,10,7639.36
+1140,01-12-2025,North,Punjab,Technology,Accessories,Wireless Mouse,Vijay,49934.28,1,6034.53
+1141,20-01-2025,North,Punjab,Technology,Laptops,Dell Laptop,Vijay,41975.35,3,10345.35
+1142,17-03-2025,North,Delhi,Technology,Phones,Samsung Phone,Ravi,38667.32,6,8145.17
+1143,14-05-2025,East,Bihar,Technology,Laptops,Dell Laptop,Sneha,3745.1,6,988.25
+1144,04-02-2025,West,Maharashtra,Office Supplies,Paper,A4 Paper,Pooja,17731.73,5,4818.59
+1145,06-11-2025,West,Goa,Technology,Laptops,Dell Laptop,Rahul,78039.84,8,4176.75
+1146,21-11-2025,West,Maharashtra,Technology,Accessories,Wireless Mouse,Asha,78537.38,6,16165.81
+1147,26-02-2025,West,Gujarat,Office Supplies,Storage,Storage Box,Vijay,38743.95,5,10678.67
+1148,11-02-2025,South,Telangana,Furniture,Chairs,Office Chair,Anil,48583.82,9,5055
+1149,19-08-2025,West,Maharashtra,Furniture,Tables,Study Table,Rahul,3355.29,5,770.83
+1150,12-04-2025,South,Karnataka,Furniture,Tables,Study Table,Kiran,50295.96,1,3057.8
+1151,01-03-2025,South,Tamil Nadu,Technology,Accessories,Wireless Mouse,Anil,17868.2,3,1296.02
+1152,22-01-2025,South,Karnataka,Furniture,Tables,Study Table,Kiran,52956.95,10,4861.03
+1153,28-03-2025,South,Tamil Nadu,Technology,Accessories,Wireless Mouse,Priya,40524.69,2,3331.65
+1154,16-03-2025,South,Tamil Nadu,Office Supplies,Paper,A4 Paper,Rahul,70788.32,7,17669.6
+1155,12-07-2025,East,Odisha,Office Supplies,Paper,A4 Paper,Kiran,68512.42,9,4300.4
+1156,11-03-2025,South,Tamil Nadu,Office Supplies,Binders,Ring Binder,Kiran,8536.58,3,1599.59
+1157,20-03-2025,North,Uttar Pradesh,Technology,Laptops,Dell Laptop,Pooja,2680.84,4,691.67
+1158,18-04-2025,South,Andhra Pradesh,Office Supplies,Binders,Ring Binder,Kiran,42740.48,9,8907.68
+1159,20-04-2025,South,Andhra Pradesh,Technology,Laptops,Dell Laptop,Ravi,74966.12,2,10929.13
+1160,14-10-2025,East,Bihar,Furniture,Bookcases,Wooden Bookcase,Ravi,79882.57,10,8736.76
+1161,30-07-2025,North,Delhi,Office Supplies,Binders,Ring Binder,Sneha,24445.06,4,5252.85
+1162,02-01-2025,South,Karnataka,Furniture,Tables,Study Table,Asha,72907.67,7,19698.56
+1163,28-11-2025,North,Punjab,Office Supplies,Storage,Storage Box,Vijay,43432.77,10,6954.62
+1164,04-07-2025,South,Andhra Pradesh,Office Supplies,Paper,A4 Paper,Rahul,25719.92,8,6311.04
+1165,24-09-2025,West,Gujarat,Technology,Laptops,Dell Laptop,Kiran,52063.57,2,4488.21
+1166,06-10-2025,East,Assam,Furniture,Tables,Study Table,Asha,48262.29,6,10766.1
+1167,03-08-2025,West,Rajasthan,Office Supplies,Paper,A4 Paper,Asha,12762.82,4,1439.33
+1168,03-01-2025,North,Haryana,Office Supplies,Binders,Ring Binder,Ravi,17457.19,5,2591.52
+1169,05-05-2025,South,Karnataka,Office Supplies,Storage,Storage Box,Anil,61518.95,8,9549.7
+1170,11-11-2025,South,Andhra Pradesh,Office Supplies,Storage,Storage Box,Asha,24717.43,2,6532.86
+1171,21-11-2025,West,Goa,Technology,Phones,Samsung Phone,Rahul,70971.57,3,18466.02
+1172,25-07-2025,East,West Bengal,Furniture,Bookcases,Wooden Bookcase,Rahul,24243.35,8,4327.4
+1173,18-04-2025,South,Andhra Pradesh,Technology,Laptops,Dell Laptop,Sneha,65627.49,2,8134.04
+1174,13-07-2025,North,Delhi,Technology,Laptops,Dell Laptop,Vijay,32728.04,6,5110.94
+1175,11-04-2025,West,Maharashtra,Office Supplies,Storage,Storage Box,Kiran,10627.75,3,2830.17
+1176,12-06-2025,North,Delhi,Technology,Laptops,Dell Laptop,Pooja,16761.66,6,3094.81
+1177,17-06-2025,South,Tamil Nadu,Furniture,Bookcases,Wooden Bookcase,Asha,51856.47,6,7813.41
+1178,28-11-2025,West,Maharashtra,Office Supplies,Binders,Ring Binder,Priya,73181.04,6,11231.17
+1179,06-06-2025,East,Assam,Office Supplies,Storage,Storage Box,Asha,16557.62,10,1856.27
+1180,06-02-2025,South,Andhra Pradesh,Office Supplies,Binders,Ring Binder,Pooja,13492.75,9,1996.8
+1181,27-05-2025,South,Tamil Nadu,Office Supplies,Paper,A4 Paper,Priya,75297.65,10,18928.07
+1182,19-04-2025,North,Punjab,Technology,Phones,Samsung Phone,Sneha,42926.2,4,6942.34
+1183,30-08-2025,East,Bihar,Office Supplies,Storage,Storage Box,Anil,62532.39,5,11633.87
+1184,19-04-2025,South,Karnataka,Technology,Phones,Samsung Phone,Asha,62625.85,9,5886.88
+1185,30-07-2025,South,Telangana,Technology,Phones,Samsung Phone,Ravi,32358.22,4,5764.88
+1186,23-02-2025,West,Goa,Technology,Phones,Samsung Phone,Ravi,18752.96,3,2675.85
+1187,15-07-2025,North,Haryana,Office Supplies,Binders,Ring Binder,Vijay,47095.93,10,10127.3
+1188,02-04-2025,West,Goa,Office Supplies,Storage,Storage Box,Vijay,11968.78,6,2750.16
+1189,28-10-2025,East,Odisha,Furniture,Bookcases,Wooden Bookcase,Sneha,56500.14,10,9512.21
+1190,26-10-2025,East,Assam,Technology,Phones,Samsung Phone,Kiran,68565.42,3,13431.1
+1191,24-09-2025,North,Haryana,Office Supplies,Storage,Storage Box,Ravi,4791.99,3,799.56
+1192,05-11-2025,South,Tamil Nadu,Office Supplies,Paper,A4 Paper,Priya,50463.58,7,8923.48
+1193,14-02-2025,East,Odisha,Technology,Laptops,Dell Laptop,Sneha,3651.75,4,457.55
+1194,08-02-2025,West,Gujarat,Furniture,Tables,Study Table,Sneha,16808.06,8,4637.8
+1195,26-12-2025,South,Tamil Nadu,Furniture,Tables,Study Table,Rahul,48442.29,3,12896.79
+1196,28-04-2025,South,Andhra Pradesh,Furniture,Chairs,Office Chair,Rahul,59441.66,10,7536.73
+1197,17-02-2025,East,Assam,Office Supplies,Binders,Ring Binder,Pooja,61819.8,10,18140.57
+1198,29-07-2025,North,Uttar Pradesh,Office Supplies,Binders,Ring Binder,Sneha,57250.24,5,2909.47
+1199,16-07-2025,West,Rajasthan,Technology,Phones,Samsung Phone,Ravi,50880.82,2,9148.06
+1200,26-04-2025,South,Karnataka,Office Supplies,Paper,A4 Paper,Vijay,34039.1,9,7865.83
+1201,02-03-2025,East,Odisha,Office Supplies,Storage,Storage Box,Rahul,65806.28,9,13822.29
+1202,21-11-2025,West,Goa,Technology,Phones,Samsung Phone,Vijay,8501.91,1,2528.85
+1203,09-07-2025,South,Karnataka,Technology,Phones,Samsung Phone,Ravi,5616.85,9,825.31
+1204,07-10-2025,West,Maharashtra,Technology,Phones,Samsung Phone,Kiran,12305.11,8,792.67
+1205,10-08-2025,North,Uttar Pradesh,Office Supplies,Storage,Storage Box,Anil,22403.91,1,4074.21
+1206,23-05-2025,South,Telangana,Technology,Accessories,Wireless Mouse,Anil,41780.28,4,4304.89
+1207,31-03-2025,South,Tamil Nadu,Technology,Laptops,Dell Laptop,Vijay,34620.09,2,4195.62
+1208,05-05-2025,West,Gujarat,Furniture,Bookcases,Wooden Bookcase,Anil,8875.79,7,2270.89
+1209,31-03-2025,North,Uttar Pradesh,Technology,Phones,Samsung Phone,Priya,55978.89,10,5593.6
+1210,31-10-2025,West,Rajasthan,Furniture,Bookcases,Wooden Bookcase,Sneha,11639.42,6,1356.91
+1211,17-04-2025,West,Gujarat,Furniture,Bookcases,Wooden Bookcase,Pooja,13317.72,3,1515.89
+1212,27-04-2025,South,Andhra Pradesh,Technology,Accessories,Wireless Mouse,Vijay,584.1,6,98.2
+1213,09-12-2025,South,Karnataka,Furniture,Bookcases,Wooden Bookcase,Asha,25987.27,7,1890.29
+1214,11-05-2025,North,Delhi,Furniture,Bookcases,Wooden Bookcase,Priya,29812.27,4,6703.04
+1215,31-07-2025,East,Odisha,Furniture,Chairs,Office Chair,Asha,48000.96,2,10715.52
+1216,28-10-2025,North,Uttar Pradesh,Furniture,Tables,Study Table,Pooja,31455.44,7,6248.83
+1217,25-11-2025,East,Bihar,Technology,Accessories,Wireless Mouse,Ravi,70335.7,7,3537.48
+1218,17-11-2025,South,Karnataka,Technology,Accessories,Wireless Mouse,Ravi,4945.75,1,989.89
+1219,28-03-2025,South,Tamil Nadu,Office Supplies,Paper,A4 Paper,Priya,48889.47,5,6393.85
+1220,06-07-2025,South,Tamil Nadu,Furniture,Tables,Study Table,Neha,40698.42,1,2814.04
+1221,21-08-2025,East,Assam,Technology,Accessories,Wireless Mouse,Asha,63682.74,9,8226.85
+1222,14-08-2025,East,Bihar,Technology,Laptops,Dell Laptop,Kiran,30478.71,9,3318.22
+1223,26-06-2025,South,Tamil Nadu,Furniture,Bookcases,Wooden Bookcase,Vijay,41619.41,5,3989.84
+1224,07-03-2025,North,Punjab,Technology,Phones,Samsung Phone,Rahul,23684.31,8,1446.51
+1225,04-08-2025,West,Gujarat,Furniture,Chairs,Office Chair,Asha,58518.17,10,8838.41
+1226,29-12-2025,South,Telangana,Technology,Phones,Samsung Phone,Anil,15950.75,2,2815.95
+1227,18-01-2025,North,Uttar Pradesh,Office Supplies,Storage,Storage Box,Neha,25091.39,4,3492.14
+1228,21-09-2025,South,Telangana,Technology,Phones,Samsung Phone,Anil,36533.86,6,4772
+1229,21-09-2025,West,Maharashtra,Furniture,Tables,Study Table,Sneha,63211.07,7,4343.93
+1230,19-05-2025,East,Bihar,Technology,Laptops,Dell Laptop,Ravi,6644.46,9,825.67
+1231,10-07-2025,North,Delhi,Technology,Phones,Samsung Phone,Sneha,71931.13,3,10421.95
+1232,25-09-2025,West,Gujarat,Technology,Phones,Samsung Phone,Kiran,78508.6,8,14734.18
+1233,25-11-2025,South,Telangana,Office Supplies,Storage,Storage Box,Kiran,50987.38,8,5948.44
+1234,30-10-2025,West,Goa,Furniture,Bookcases,Wooden Bookcase,Neha,38289.53,9,6309.52
+1235,18-03-2025,West,Rajasthan,Technology,Accessories,Wireless Mouse,Pooja,70830.4,9,15401.18
+1236,08-02-2025,South,Karnataka,Office Supplies,Binders,Ring Binder,Asha,23875.64,4,6868.09
+1237,30-12-2025,East,Odisha,Technology,Laptops,Dell Laptop,Vijay,41973.78,5,11609.23
+1238,12-03-2025,North,Delhi,Technology,Accessories,Wireless Mouse,Priya,62932.19,3,3194.28
+1239,23-09-2025,West,Maharashtra,Technology,Phones,Samsung Phone,Pooja,78317.01,8,7255.9
+1240,12-03-2025,North,Punjab,Office Supplies,Storage,Storage Box,Sneha,43398.41,8,6881.12
+1241,14-07-2025,South,Telangana,Office Supplies,Paper,A4 Paper,Sneha,49944.73,1,13264.32
+1242,16-02-2025,West,Goa,Furniture,Chairs,Office Chair,Priya,47215.23,7,5999.9
+1243,27-06-2025,South,Telangana,Office Supplies,Storage,Storage Box,Neha,23457.81,7,5114.86
+1244,24-06-2025,North,Uttar Pradesh,Furniture,Tables,Study Table,Kiran,1287.61,5,269.27
+1245,30-06-2025,West,Goa,Furniture,Tables,Study Table,Pooja,14493.41,5,4186.28
+1246,08-06-2025,West,Rajasthan,Furniture,Bookcases,Wooden Bookcase,Anil,38296.45,9,5405.68
+1247,21-02-2025,North,Delhi,Furniture,Tables,Study Table,Vijay,59090.55,10,11951.97
+1248,27-07-2025,South,Tamil Nadu,Technology,Phones,Samsung Phone,Pooja,14998.13,4,4060.33
+1249,15-03-2025,West,Rajasthan,Technology,Accessories,Wireless Mouse,Anil,16523.79,3,1596.75
+1250,20-07-2025,West,Rajasthan,Technology,Accessories,Wireless Mouse,Neha,34383.47,2,8133.8
+1251,26-07-2025,West,Gujarat,Furniture,Tables,Study Table,Asha,48344.71,6,10789.5
+1252,29-03-2025,North,Uttar Pradesh,Technology,Accessories,Wireless Mouse,Rahul,69948.03,1,18796.52
+1253,16-03-2025,West,Gujarat,Furniture,Tables,Study Table,Sneha,29978.87,8,6004.1
+1254,18-04-2025,West,Gujarat,Technology,Accessories,Wireless Mouse,Vijay,63652.68,2,16248.02
+1255,10-12-2025,South,Tamil Nadu,Technology,Phones,Samsung Phone,Kiran,55886.97,5,6243.74
+1256,26-12-2025,South,Karnataka,Technology,Laptops,Dell Laptop,Asha,55539.37,7,12689.31
+1257,11-07-2025,North,Haryana,Office Supplies,Paper,A4 Paper,Priya,28576.85,9,6574.5
+1258,23-07-2025,West,Maharashtra,Technology,Laptops,Dell Laptop,Vijay,74569.66,4,14660.8
+1259,23-04-2025,South,Karnataka,Technology,Phones,Samsung Phone,Pooja,5542.85,1,1612.16
+1260,01-07-2025,East,Odisha,Technology,Laptops,Dell Laptop,Neha,76577.29,4,20333.23
+1261,19-12-2025,East,Bihar,Technology,Accessories,Wireless Mouse,Sneha,43200.75,2,3438.07
+1262,14-06-2025,North,Delhi,Technology,Laptops,Dell Laptop,Kiran,11765.99,10,2396.95
+1263,25-11-2025,South,Telangana,Technology,Laptops,Dell Laptop,Asha,50985.51,5,11150.98
+1264,11-03-2025,West,Goa,Office Supplies,Binders,Ring Binder,Neha,49422.58,1,3929.73
+1265,26-04-2025,West,Maharashtra,Office Supplies,Storage,Storage Box,Sneha,31120.37,6,6324.69
+1266,17-11-2025,South,Karnataka,Furniture,Bookcases,Wooden Bookcase,Kiran,68629.83,10,14611.77
+1267,03-08-2025,North,Punjab,Technology,Phones,Samsung Phone,Anil,46456.1,7,7506.14
+1268,24-09-2025,West,Goa,Furniture,Tables,Study Table,Priya,2321.54,3,189.44
+1269,11-02-2025,South,Telangana,Office Supplies,Binders,Ring Binder,Ravi,29534.92,7,7544.61
+1270,13-06-2025,South,Telangana,Furniture,Chairs,Office Chair,Pooja,45903.6,3,3527.94
+1271,21-06-2025,South,Andhra Pradesh,Furniture,Bookcases,Wooden Bookcase,Anil,67109,9,9146.6
+1272,21-03-2025,South,Andhra Pradesh,Furniture,Tables,Study Table,Neha,8579.51,7,2362.1
+1273,27-11-2025,North,Delhi,Technology,Accessories,Wireless Mouse,Neha,15739.78,7,3880.08
+1274,22-07-2025,East,Bihar,Office Supplies,Binders,Ring Binder,Neha,77481.87,6,11323.37
+1275,19-10-2025,North,Delhi,Office Supplies,Paper,A4 Paper,Neha,60821.68,5,15368.16
+1276,01-04-2025,East,Odisha,Office Supplies,Storage,Storage Box,Kiran,56158.32,2,6769.75
+1277,01-01-2025,North,Uttar Pradesh,Technology,Phones,Samsung Phone,Sneha,70130.81,7,18137.95
+1278,10-10-2025,East,West Bengal,Office Supplies,Paper,A4 Paper,Rahul,55460.58,1,7983.96
+1279,15-04-2025,East,Bihar,Furniture,Chairs,Office Chair,Asha,68487.26,10,11132.21
+1280,21-10-2025,West,Maharashtra,Furniture,Bookcases,Wooden Bookcase,Neha,38841.13,9,2735.4
+1281,28-04-2025,West,Rajasthan,Technology,Phones,Samsung Phone,Neha,73178.88,6,7898.43
+1282,12-12-2025,North,Uttar Pradesh,Furniture,Tables,Study Table,Ravi,3612.23,10,1060.16
+1283,24-06-2025,South,Karnataka,Office Supplies,Storage,Storage Box,Neha,74997.47,6,17467.4
+1284,06-11-2025,West,Rajasthan,Office Supplies,Storage,Storage Box,Rahul,47636.67,10,4205.22
+1285,04-12-2025,North,Haryana,Technology,Accessories,Wireless Mouse,Neha,29081.32,6,3446.9
+1286,18-06-2025,West,Gujarat,Office Supplies,Paper,A4 Paper,Asha,22433.12,1,6320.06
+1287,30-07-2025,East,West Bengal,Technology,Laptops,Dell Laptop,Anil,2245.46,10,611.04
+1288,06-12-2025,North,Delhi,Office Supplies,Paper,A4 Paper,Rahul,58606.28,1,16140.04
+1289,12-12-2025,South,Telangana,Office Supplies,Storage,Storage Box,Kiran,22051.05,4,5798.76
+1290,12-11-2025,East,West Bengal,Furniture,Tables,Study Table,Neha,14090.21,9,4004.27
+1291,23-10-2025,South,Andhra Pradesh,Furniture,Bookcases,Wooden Bookcase,Anil,58387.85,8,11572.08
+1292,29-04-2025,South,Tamil Nadu,Technology,Laptops,Dell Laptop,Asha,15270.53,10,3043.24
+1293,29-11-2025,North,Haryana,Technology,Laptops,Dell Laptop,Ravi,57335.6,8,13767
+1294,05-05-2025,West,Goa,Technology,Phones,Samsung Phone,Asha,76292.88,8,20348.7
+1295,24-04-2025,East,Odisha,Technology,Accessories,Wireless Mouse,Asha,51865.91,8,5386.64
+1296,13-09-2025,East,Odisha,Furniture,Chairs,Office Chair,Anil,12992.26,6,3293.16
+1297,04-05-2025,South,Karnataka,Technology,Laptops,Dell Laptop,Neha,3918.05,9,255.43
+1298,03-08-2025,West,Rajasthan,Technology,Phones,Samsung Phone,Sneha,5501.63,3,971.23
+1299,02-07-2025,South,Karnataka,Technology,Laptops,Dell Laptop,Asha,8561.02,7,762.04
+1300,13-07-2025,North,Delhi,Technology,Phones,Samsung Phone,Asha,69888.72,7,7509.63
